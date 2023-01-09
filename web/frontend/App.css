@@ -1,0 +1,143 @@
+#textFieldDiv > div > .Polaris-Connected {
+  padding: 6px;
+  width: 40%;
+}
+#textFieldDiv {
+  border-bottom: 0.0425rem solid #c9cccf;
+}
+#customTable > .Polaris-IndexTable {
+  font-weight: 200;
+}
+#customTitle {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 15px;
+}
+
+#customTitle > h1 {
+  padding: 5px 10px;
+  font-weight: 600;
+  font-size: large;
+}
+#customTitle > button {
+  background-color: rgb(6, 111, 239);
+  border: none;
+  color: #fff;
+}
+#customTitle > button:hover,
+button:focus {
+  transform: scale(1.03);
+}
+#customPopover > div > button {
+  color: rgb(6, 111, 239);
+  border: 1px solid rgb(6, 111, 239);
+}
+#customPopover > div > button > .Polaris-Button__Icon {
+  color: rgb(6, 111, 239);
+  /* border: 1px solid rgb(6, 111, 239); */
+}
+#customBadge > span {
+  background-color: rgb(150, 220, 185);
+}
+#customIcon > span {
+  margin-left: 0;
+  padding: 4px;
+  fill: rgb(86, 83, 83);
+}
+#customTitleTwo > h1 {
+  padding: 5px 10px;
+  font-weight: 600;
+  font-size: large;
+}
+#customTitleTwo {
+  margin: 40px 30px;
+  display: flex;
+}
+#customTitleTwo > .Polaris-Button {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(246, 246, 247, 1);
+  /* cursor: pointer; */
+  /* display: flex; */
+}
+.pixeTitle {
+  font-weight: 600;
+  font-size: medium;
+}
+
+#secondPage {
+  padding: 20px 25px;
+  line-height: 40px;
+}
+#secondPage > hr {
+  border: none;
+  margin-top: 10px;
+}
+#customChoice > .Polaris-ChoiceList > ul {
+  display: flex;
+  gap: 20px;
+}
+#customButtonGroup > .Polaris-Button {
+  display: grid;
+  margin-bottom: 15px;
+  width: 180px;
+  /* padding: 10px 10px; */
+}
+
+#customError {
+  display: flex;
+  padding: 0 8px;
+  background-color: #f8dbed;
+  margin-top: 20px;
+  border-radius: 6px;
+  border: 1px solid rgb(245, 160, 160);
+}
+#customError > .Polaris-Icon {
+  fill: red;
+  margin: 8px 20px 8px 0;
+}
+
+#secondPagePartTwo {
+  padding: 20px 25px;
+  line-height: 40px;
+  margin-bottom: 14vw;
+}
+#secondPagePartTwo > .Polaris-Choice > span {
+  /* padding: 5px 10px; */
+  font-weight: 600;
+  font-size: medium;
+}
+.customHeading {
+  margin: 0;
+  padding: 0;
+  line-height: 2px;
+  margin-bottom: 18px;
+}
+#customErrorYellow {
+  background-color: #f8dbed;
+  margin-top: 40px;
+  display: flex;
+  padding: 0 8px;
+  border-radius: 6px;
+  border: 1px solid rgb(198, 193, 43);
+}
+#customErrorYellow > .Polaris-Icon {
+  fill: rgb(198, 193, 43);
+  margin: 8px 20px 8px 0;
+}
+#secondPagePartTwo > hr {
+  border: none;
+  margin-top: 10px;
+}
+.Polaris-Button--primary {
+  background-color: rgb(6, 111, 239);
+}
+.Polaris-Button--primary:hover {
+  background-color: rgb(6, 111, 239);
+}
+.Polaris-Button--primary:focus {
+  background-color: rgb(6, 111, 239);
+}
+.Polaris-Frame {
+  min-height: 4vh;
+}
